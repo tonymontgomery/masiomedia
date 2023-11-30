@@ -104,7 +104,7 @@ fun PlayerButtons(
 ) {
 
     var isPlaying by remember {
-        mutableStateOf(false)
+        mutableStateOf(room.isPlaying)
     }
 
     Row(

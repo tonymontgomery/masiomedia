@@ -25,7 +25,7 @@ import com.masimo.media.data.MainViewModel
 fun SettingsScreen(viewModel: MainViewModel) {
 
     var switchOn by remember {
-        mutableStateOf(false)
+        mutableStateOf(viewModel.mockDataOn)
     }
 
     Column(modifier = Modifier
