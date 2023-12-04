@@ -5,9 +5,9 @@ Self development task to learn about Kotlin, Compose, modern Android architectur
 
 #############################################################3
 
-![Alt text](https://github.com/tonymontgomery/masiomedia/blob/main/Player.jpg)
+![Preview Image](https://github.com/tonymontgomery/masiomedia/blob/main/Player.jpg)
 
-![Alt text](Rooms.png)
+![Alt text](https://github.com/tonymontgomery/masiomedia/blob/main/Rooms.png)
 
-![Alt text](Settings.png)
+![Alt text](https://github.com/tonymontgomery/masiomedia/blob/main/Settings.png)
 
